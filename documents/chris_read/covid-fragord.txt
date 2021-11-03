@@ -1,0 +1,1230 @@
+1 2 3 4 5 6 7 8 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+HQ, USFJ Yokota AB, Japan 07 1900(I) MAY 20
+FRAGORD 005 to COMUSFJ Force Public Health Order 20-001, dated 25 Mar 20. This order supersedes all previous orders.
+Includes COMUSFJ Force Public Health Order 20-001, dated 25 Mar 20. FRAGORD 001, dated 26 1700(I) MAR 20
+FRAGORD 002, dated 06 1200(I) APR 20 FRAGORD 003, dated 15 0900(I) APR 20 FRAGORD 004, dated 24 1800(I) APR 20
+References.
+a. Civilian Personnel Guidance for DoD Components in Responding to Coronavirus Disease 2019, 08 March 2020
+b. Force Health Protection Guidance for the Novel Coronavirus Outbreak, 30 January 2020
+1. Force Health Protection Guidance (Supplement 1) – Department of Defense Guidance for Monitoring Personnel Returning from China During the Novel Coronavirus Outbreak, 7 February 2020
+2. Force Health Protection Guidance (Supplement 2) – Department of Defense Guidance for Military Installation Commanders’ Risk- Based Measured Responses to the Novel Coronavirus Outbreak, 25 February 2020
+3. Force Health Protection Guidance (Supplement 3) – Department of Defense Guidance for the Use of Personal Protective Equipment and Non-Pharmaceutical Interventions during the Coronavirus Disease 2019 Outbreak, 10 March 2020
+4. Force Health Protection Guidance (Supplement 4) – Department of Defense Guidance for Personnel Traveling During the Novel Coronavirus Outbreak, 11 March 2020
+c. Stop Movement for all Domestic Travel for DoD Components in Response to Coronavirus Disease 2019, 13 March 2020
+FRAGORD 004 (hereby cancelled, delegations still apply)
+d. Travel Restrictions for DoD Components in Response to Coronavirus Disease 2019, 11 March 2020
+FRAGORD 004 (hereby cancelled, delegations still apply)
+e. Office of the Under Secretary of Defense: Authorized Departure – Individuals at Higher Risk from COVID-19, 20 March 2020
+f. Office of the Under Secretary of Defense: Space Available Travel Program Limitations Due to Coronavirus Disease 2019.
+g. USINDOPACOM EXORD P-963 RESPONSE TO NOVEL CORONAVIRUS, 091955Z FEB 20, FRAGORD 012 240400Z MAR 2020
+1
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+h. USINDOPACOM EXORD P-963 RESPONSE TO NOVEL CORONAVIRUS, 091955Z FEB 20, FRAGORD 005 MAR 2020
+i. USFJ Force Health Protection Order, 4 February 2020
+j. USFJ Force Health Protection Order, 26 February 2020
+k. USFJ Force Health Protection Order, 14 March 2020
+l. MOD 01 to Revision 01 to DoD Response to CORONA VIRUS – 19 EXORD,
+242300ZMAR20
+m. FRAGORD 001 USFJ Public Affairs Guidance (COVID-19), 10 March
+2020
+n. FRAGORD 001 USFJ Public Affairs Guidance HPCON Charlie
+Implementation, 25 March 2020
+o. FRAGORD 002 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL
+CORONAVIRUS, 091955Z FEB 20, FRAGORD 016 01 APR 20
+p. FRAGORD 002 SECDEF, GUIDANCE FOR COMMANDERS ON THE
+IMPLEMENTATION OF THE RISK-BASED RESPONSES TO THE COVID-
+19 PANDEMIC, 01 APR 20
+q. FRAGORD 002 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL
+CORONAVIRUS, 091955Z FEB 20, FRAGORD 017 02 APR 20
+r. FRAGORD 002 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL
+CORONAVIRUS, 091955Z FEB 20, FRAGORD 018 04 APR 20
+s. FRAGORD 002 SECDEF, DEPARTMENT OF DEFENSE GUIDANCE ON
+THE USE OF CLOTH FACE COVERINGS, 05 APR 20
+t. FRAGORD 003 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL
+CORONAVIRUS, 091955Z FEB 20, FRAGORD 019, 04 APR 20
+u. FRAGORD 003 Force Health Protection (Supplement 6)- Department of
+Defense Guidance for Coronavirus Disease 2019 Laboratory Diagnostic
+Testing Services, 07 APR 20
+v. FRAGORD 003 Force Health Protection Guidance (Supplement 7)-
+Department of Defense Guidance for the Use of Cloth Face Coverings, Personal Protective Equipment, and Non-Pharmaceutical Interventions During the Coronavirus Disease 2019 Pandemic, 08 APR 20
+w. FRAGORD 003 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL CORONAVIRUS, 091955Z FEB 20, FRAGORD 020, 09 APR 20
+x. FRAGORD 003 USINDOPACOM EXORD P-963 RESPONSE TO NOVEL CORONAVIRUS, 091955Z FEB 20, FRAGORD 021, 10 APR 20
+y. FRAGORD 003 Force Health Protection Guidance (Supplement 8)- Department of Defense Guidance for Protecting Personnel in Workplaces during the Response to the Coronavirus Disease 2019 Pandemic, 13 APR 20
+z. FRAGORD 004 Modification and Reissuance of DoD Response to Coronavirus Disease 2019 Travel Restrictions, 20 Apr 20
+aa. FRAGORD 004 USINDOPACOM TRAVEL GUIDANCE - GENADMIN IN RESPONSE TO 2019 CORONAVIRUS DISEASE (COVID-19), 22 Apr 20
+1. Situation.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+2
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+90 a. The coronavirus disease 2019 (COVID-19) outbreak first detected in
+91 Wuhan, China, in December has continued to spread throughout China and
+92 the world. The U.S. Centers for Disease Control and Prevention (CDC)
+93 assesses that the SARS-CoV-2 virus is thought to spread mainly from
+94 person-to-person. Transmission is assessed to occur between people who
+95 are in close contact with one another (within about 6 feet) or via respiratory
+96 droplets produced when an infected person coughs or sneezes which
+97 droplets can land in the mouths or noses of people who are nearby or
+98 possibly be inhaled into the lungs.
+99
+100 (1) As of 23 Feb 20, The CDC assesses, that it might be possible that a
+101 person can get COVID-19 by touching a surface or object that has the
+102 virus on it and then touching their own mouth, nose, or possibly their
+103 eyes.
+104
+105 (2) On 31 Jan 20, the Secretary of the U.S. Department of Health and
+106 Human Services (HHS) declared a public health emergency for the United
+107 States.
+108
+109 (3) On 11 Mar 20, the World Health Organization declared 2019-nCoV a
+110 pandemic. According to the CDC, “
+111 112
+113 (4) On 21 Mar 20, the CDC assigned Japan a Travel Health Notice Level
+114 3.
+115
+116 (5) 117
+118
+119 b. As the U.S. Armed Forces in Japan, we inherently work in close quarters,
+120 and our personnel are the primary resource for performance of our treaty
+121 obligations. Focused on minimizing risk to mission and risk to force health
+122 and in fulfillment of my responsibilities as the commander who has TACON
+123 for force health protection, I direct the following measures. Violations by
+124 military personnel are subject to punishment under Article 92, UCMJ as
+125 violations of a lawful general order. Failures to comply with this order by
+126 U.S. civilian employees may result in disciplinary administrative action
+127 and/or a determination that the employee has failed to adjust to the
+128 overseas environment. Violations by dependents may result in
+129 administrative sanctions, up to and including loss of command sponsorship
+130 and an early return of dependents.
+131
+3
+  posed by COVID-19 is high, both globally and to the United States.”
+  On 24 Mar 20, USINDOPACOM in order to align the force, set the
+ baseline at HPCON CHARLIE for the AOR.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+The potential public health threat
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+132 2. Mission. COMUSFJ has FPCON and HPCON authority for Japan, directs
+133 heightened FPCON and HPCON levels across Japan to protect the force, and
+134 maintains combat power/projection across Japan.
+135
+136 3. Execution. 137
+138 a. Commander’s Intent. It is incumbent on ALL USFJ-affiliated personnel to
+139 do their part to mitigate the risk of COVID-19 transmission by practicing
+140 heightened hygiene measures, consider limiting or cancelling meetings,
+141 training events, formations, and large social gatherings. Total commitment
+142 of the entire USFJ population and personal integrity and discipline will be
+143 required to contain the spread of the virus. USFJ will take all appropriate
+144 measures to protect the force, our families, and our community.
+145
+146 b. Concept of the Operation. FRAGORD 003 Our number one priority is to
+147 protect the force. We have made significant progress in our containment
+148 efforts of COVID-19. One key to our success has been compliance with our
+149 Force Public Health Order. However, the conditions throughout Japan
+150 warrant continuing effort, focus, and vigilance. After deliberate command
+151 and staff assessment and receiving the Public Health Emergency Officer's
+152 recommendation: I am declaring a Public Health Emergency (PHE) for
+153 Japan in accordance with DoD Instruction (DoDI) 6200.03, “Public Health
+154 Emergency Management (PHEM) Within the DoD.” The PHE will
+155 automatically terminate on May 15, 2020, unless it is renewed and
+156 republished or sooner terminated by me. This order supersedes the previous
+157 PHE declaration for Base Clusters 1 and 6 issued on 06 APR 20.
+158
+159 c. USFJ retains responsibility for ensuring appropriate Force Health
+160 Protection Measures are in place for the Japan AOR, as the situation
+161 dictates.
+162
+163 d. Tasks to Components and Supporting Commands. See coordinating
+164 instructions.
+165
+166 (1) 167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+FRAGORD 003 Public Health Emergency for Japan
+(a) FRAGORD 002 USFJ Commanders and public health personnel are hereby directed to identify, confirm, and control this public health emergency utilizing all the necessary means outlined in DoDI 6200.03 and COMUSFJ Force Public Health Order 20-001. USFJ will continue to use the DoD Health Protection Condition framework.
+(b) FRAGORD 003 Commanders may issue guidance that affects installation personnel and property, and other individuals working, residing, or visiting on the installation (e.g., steps to protect personnel
+4
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+177 health, closing base facilities, restricting movement, or implementing
+178 restrictions of movement, quarantine, or isolation for select
+179 individuals). This includes but is not limited to: All U.S. military
+180 commands, installations, family members, DoD and host-nation (HN)
+181 civilian employees, DoD retirees, contractors, and any other persons
+182 with access to USFJ installations in Japan.
+183
+184 (c) FRAGORD 002 Component and Installation Commanders
+185 throughout Japan may implement measures from the HPCON level
+186 framework that provide specific actions in order for each person to
+187 protect his or her health.
+188
+189 1. FRAGORD 002 Any increase of HPCON levels should be
+190 coordinated through the service components to USFJ HQ.
+191
+192 2. FRAGORD 002 Coordinate activities and share information with
+193 host nation officials responsible for public health and public safety
+194 to ensure our response is appropriate for the public health
+195 emergency.
+196
+197 a. FRAGORD 002 Commanders throughout Japan will
+198 coordinate activities and share information with relevant host-
+199 nation authorities as required by USFJI 40-101.
+200
+201 b. FRAGORD 002 Shared information may include personally
+202 identifiable health information only to the extent necessary to
+203 protect the public health and safety.
+204
+205 3. FRAGORD 002 Any person who refuses to obey or otherwise
+206 violates an order during this declared public health emergency may
+207 be detained and held accountable. Uniformed personnel and
+208 retired members of the uniformed services may be punished under
+209 the UCMJ for violation of Article 84, Breaking Quarantine, and/or
+210 of Article 92, Violation of a Lawful General. Others may have
+211 access to the installation denied for a period of time, lose
+212 privileges, an early return of dependents, termination of civilian
+213 tour, or a determination of failure to adapt to the overseas
+214 environment.
+215
+216 a. FRAGORD 002 Commanders shall familiarize themselves and
+217 subordinate uniformed personnel with Article 84 of the Uniform
+218 Code of Military Justice (UCMJ). All individuals listed in
+219 Paragraph 3, desiring to gain and maintain access to USFJ
+220 installations, must follow the same Health Guidance and
+221 HPCON directives as our Service Members. Installation
+222 commanders shall address incidents of non-compliance to
+5
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+223 determine whether to bar an individual from USFJ installations,
+224 for a period up of up to two years. All such determinations to
+225 bar individuals for non-compliance shall be reported to this
+226 Headquarters.
+227
+228 (2) FRAGORD 002 Per Secretary of Defense (REF s), effective
+229 immediately, to the extent practicable, all individuals on DoD property,
+230 installations, and facilities will wear cloth face coverings when they
+231 cannot maintain six feet of social distance in public areas or work
+232 centers (this does not include in personal residences on a military
+233 installation). This includes all:
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255 (3)
+256 a prioritized list of active and planned Host Nation Funded Construction
+257 projects, by service component and by installation, to the USFJ
+258 Command Engineer Directorate (J9) POC. This request is based on
+259 forecasted impacts to construction projects as a result of increased
+260 HPCON measures which will impact installation access by construction
+261 contractors and A&E firms. Format of request attached to this FRAGO
+262 has been sent to designated service component engineer representatives
+263 by separate correspondence along with additional guidance. The POC for
+264 responses is Mr. Chong Delisi, USFJ J9 at chong.h.delisi.civ@mail.mil.
+265
+266 (4) FRAGORD 002 A Spider Route (Air Bridge) concept has been
+267 implemented in support of COVID-19. U.S. Naval Hospital Yokosuka is
+6
+(a) Military Personnel
+(b) CHANGE FRAGORD 005 DoD Civilian Employees and Host
+Nation Employees
+(c) Family Members
+(d) DoD contractors
+(e) All other individuals on DoD property, installations, and facilities
+(f) Exceptions to this requirement may be approved by local commanders or supervisors, and then submitted up the chain of command for situational awareness. Security checkpoints may require the lowering of face covers to verify identification.
+(g) Medical personal protective equipment such as N95 respirators or surgical masks will not be issued for this purpose as these will be reserved for the appropriate personnel.
+FRAGORD 002 NLT 07 April 2020, all service components will provide
+ UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+the U.S. Department of Defense facility within Japan with the capability to conduct testing of samples for COVID-19. In order to reduce the time to get test results and ensure consistent testing processes are not influenced by local capacity or Government of Japan restrictions, all U.S. military medical treatment facilities (MTFs) in Japan should use the Yokosuka lab as their primary testing site.
+(a) FRAGORD 002 USFJ J4 established a DoD air bridge to reduce transit time for COVID-19 samples. Camp Humphreys, Korea and other CONUS- based military laboratories will serve as secondary sites or when demands exceed capacity at Yokosuka. Transportation of samples to Yokosuka laboratory should employ a combination of military and commercial modes.
+(b) FRAGORD 002 Attachment 3 to Annex D Spider Route (Air Bridge) has the associated routes and estimated time lines for supporting components, which are: Commander, Fleet Air Western Pacific (CFWP), Marine Corps Installation Command Pacific (MCIPAC), Pacific Air Forces (PACAF), and United States Army Japan (USARJ).
+1. FRAGORD 002 There are five (5) main legs in the spider route:
+a. North: Misawa-Yokota.
+b. Middle: Nagasaki-Iwakuni-Yokota.
+c. South: Okinawa-Iwakuni (or alternatively Okinawa-Camp Humphreys).
+d. West: Atsugi-Camp Humphreys.
+e. Kanto Rotary: Yokota-Yokosuka.
+2. FRAGORD 002 North route coverage responsibility is as follows:
+a. PACAF (Yokota AB) on Sunday, Tuesday, Thursday. b. CFWP (NAF Misawa) on Monday, Wednesday, Friday,
+Saturday.
+3. FRAGORD 002 Middle route coverage responsibility is as follows:
+a. MCIPAC (MCAS Iwakuni) on Sunday, Tuesday, Thursday, Friday.
+7
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+b. CFWP (NAF Atsugi) on Monday, Wednesday, Saturday.
+4. FRAGORD 002 South route coverage responsibility is as follows:
+a. CFWP (Kadena AB) on Sunday, Tuesday, Thursday.
+b. MCIPAC (MCAS Futenma) on Monday, Wednesday, Friday,
+Saturday.
+5. FRAGORD 002 West route coverage responsibility is handled exclusively by CFWP (NAF Atsugi) as an on call basis or upon coordination with USS RONALD REAGAN or U.S. Naval Hospital Yokosuka.
+6. FRAGORD 002 Kanto Rotary coverage responsibility is as follows:
+a. PACAF (Yokota AB) on Sunday, Tuesday, Thursday. b. USARJ (Camp Zama) Mondays, Wednesday, Friday,
+Saturday.
+(c) FRAGORD 002 For questions or concerns, contact the USFJ J4 JLOC organizational email account, indopacom.yokota.usfj-j4.mbx.usfj-j4-jloc@mail.mil.
+(5) CHANGE FRAGORD 005 Appendix 2 to Annex A is an Entry Letter into Japan for Status of Forces Agreement (SOFA) members. This is to be used with airlines to provide a reassurance that SOFA status personnel are authorized entry to Japan, notwithstanding any prohibitions on entry by the Government of Japan. The letter is not to be shown to immigration authorities. Entry to Japan only requires documents set forth in the Foreign Clearance Guide. The Service member’s component will provide either Government Operated Vehicle (GOV) or Privately Owned Vehicle (POV) from the port of entry to a USFJ facility. Onward movement by commercial air is prohibited prior to completing a ROM for 14 days. Onward movement by MILAIR prior to completing the ROM for 14 days is permitted
+(6) FRAGORD 003 During this extremely unusual time when movement of personnel brought to Japan has been stopped for dependents, the service components and 5 AF are to extend the SOFA status for everyone whose sponsor has departed Japan. This extension is to be through 1 Jul 20 or until 30 days after the stop movement is lifted, whichever is later. Ensure that entry/exit stamps are updated to reflect this extension.
+8
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+359
+360 (7) FRAGORD 004 COMUSFJ directs the Okinawa Area Coordinator to
+361 establish, operate, and manage a Joint COVID-19 Response Center
+362 (JCRC). The JCRC will coordinate across the joint force on Okinawa and
+363 serve as the central node for notification of and response to COVID-19
+364 persons-under-investigation (PUI) cases. The JCRC will ensure the joint
+365 force is adequately equipped and trained to respond to COVID-19 PUI
+366 cases and, when required, deploy contact tracing and clean teams to
+367 minimize exposure of USFJ-affiliated personnel present on Okinawa.
+368
+369 (8) FRAGORD 004 IOT support Public Health Emergency declaration
+370 response efforts, protection of all DoD beneficiaries, social distancing
+371 behavior practices, Public Health Emergency Officers (PHEOs), medical
+372 teams, and contact tracing teams within the Japan AOR, all active duty
+373 military personnel within Japan (which term includes any reservist
+374 currently serving with the U.S. Armed Forces and members of the
+375 National Guard) shall maintain a daily ‘contact tracing’ record in the
+376 event they should become a COVID-19 case. This is accomplished by
+377 recording daily date, time, location, and duration of contact with
+378 individuals whom would meet contact tracing conditions as listed in para
+379 3.d.(8).(b). Failure to maintain a daily ‘contact tracing’ record may result
+380 in punishment under Article 92, UCMJ.
+381
+382 (a) FRAGORD 004 Members of the civilian component, SOFA-status
+383 dependents, and Master Labor Contract, Mariners Contract, and
+384 Indirect Hire Agreement employees (LN employees) are highly
+385 encouraged to maintain a daily ‘contact tracing’ record. Failure to do
+386 so could result in denial of access to USFJ military installations.
+387
+388 (b) 389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+FRAGORD 004 Contact Tracing conditions:
+1. CHANGE FRAGORD 005 Being within approximately 6 feet (2 meters) of an individual for longer than 10 minutes “with or without masks”.
+2. FRAGORD 004 Anyone with whom they had physical contact while caring for, living with, or visiting;
+3. CHANGE FRAGORD 005 Anytime an individual visits a waiting room (data should only include DTG and location; NOT other individuals within waiting room)
+4. FRAGORD 004 Anyone having direct contact with an individual’s secretions (e.g., being coughed or sneezed on, coughing or sneezing on).
+9
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+404
+405 (c) FRAGORD 004 The contact tracing record is to be reviewed solely
+406 by medical teams ISO of a COVID-19 trace investigation.
+407
+408 (9) ADD FRAGORD 005 Individuals In Quarantine 409
+410 (a) ADD FRAGORD 005 All individuals will be tested near or upon
+411 completion of quarantine with COVID-19 RT-PCR (referred to as post-
+412 quarantine testing (PQT)).
+413
+414 (b) ADD FRAGORD 005 Individuals in quarantine will remain in
+415 quarantine for a minimum of 14 days and will be subject to PQT.
+416
+417 1. ADD FRAGORD 005 Testing may be performed between days 12
+418 and 14 of quarantine.
+419
+420 a. ADD FRAGORD 005 If the PQT is negative, the individual
+421 remains asymptomatic, and 14 days or more have elapsed, they
+422 may be released from quarantine.
+423
+424 b. ADD FRAGORD 005 If the PQT is positive, individual will
+425 enter isolation and will be subject to isolation and release
+426 protocols.
+427
+428 2. ADD FRAGORD 005 If at any time during quarantine, an
+429 individual develops symptoms, they will be tested/retested for
+430 COVID-19.
+431
+432 3. ADD FRAGORD 005 It is understood operational units may
+433 require two negative tests as part of their quarantine clearance
+434 procedure.
+435
+436 (c) ADD FRAGORD 005 In the notes section of the Lab Order Chit,
+437 write; ‘In support of Operational Requirements’ and write member’s
+438 unit or member sponsor’s unit.
+439
+440 (10) ADD FRAGORD 005 ISO Medical Clearance for Host Nation
+441 Employees see Appendix 1 (HOST NATION EMPLOYEES RETURN TO
+442 WORK (RTW) GUIDANCE) to Annex M (MEDICAL) for the following
+443 situations.
+444
+445 (a) ADD FRAGORD 005 Medical Clearance for Host Nation Employees
+446 in quarantine.
+447
+10
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+448 (b) ADD FRAGORD 005 Medical Clearance for Host Nation Employees
+449 with Presumed COVID-19 (known contact with a confirmed case
+450 and/or symptoms consistent with COVID-19 but do not meet the
+451 Japanese Medical System testing criteria.
+452
+453 (c) ADD FRAGORD 005 Medical Clearance for Host Nation Employees
+454 with Confirmed COVID-19
+455
+456 (d) ADD FRAGORD 005 Medical Clearance for Host Nation Employees
+457 with Certified Negative COVID-19 testing (host nation employees with
+458 symptoms consistent with COVID-19 whose Japanese Medical System
+459 initial diagnostic test is negative).
+460
+461 (e) ADD FRAGORD 005 Tab A (HN EMPLOYEE RTW COVID-19
+462 FLOWCHART) Appendix 1 (HOST NATION EMPLOYEES RETURN TO
+463 WORK (RTW) GUIDANCE) to Annex M (MEDICAL)
+464
+465 e. Coordinating Instructions. 466
+467 (1) All units will move to Health Protection Condition Charlie (HPCON C)
+468 (heightened exposure risk). Components shall review and mitigate risks
+469 commensurate with the sustained community transmission of COVID-
+470 19. It is important Subordinate/Installation Commanders work to meet
+471 the intent of HPCON C while tailoring specific implementation measures
+472 to their circumstances.
+473
+474 (a) All units shall: 475
+476 1. Screen passengers at military transportation terminals in a
+477 manner consistent with CDC screening procedures in REF b.4
+478 (Primary & Secondary Exit Screening Overview).
+479
+480 a. Check CDC Travel Notices daily to ensure DoD screening
+481 measures are consistent with CDC Coronavirus travel notices.
+482
+483 b. Notify USINDOPACOM JOC, via the USFJ JOC, when
+484 screening measures in REF b.4 are established for points of
+485 departure (PODS) in Japan.
+486
+487 c. USINDOPACOM has approved DIRLAUTH with
+488 USTRANSCOM in developing procedures at AMC Terminals.
+489
+490 d. Additional FHP passenger screening measures established by
+491 combatant commanders will be reported to the USINDOPACOM
+492 Command Center through USFJ Command Center.
+11
+ UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+(b)
+All units will consider the following actions under HPCON C:
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516 (2)
+517 risk levels (HPCON A, HPCON B), to include the following:
+518
+519 (a) Consider limiting or canceling meetings, training events,
+520 formations, large social gatherings, etc.
+521
+522 (b) Continue to monitor conditions in areas near U.S. bases and
+523 stations. This may require coordination with local health officials.
+524
+525 (c) Coordinate with USFJ to establish area restrictions and limitations
+526 on travel due to health concerns.
+527
+528 (d) Monitor Class VIII (medical supplies) required to support medical
+529 care and quarantine.
+530
+531 (e) Installations are to review their Disease Containment Plans (DCP). 532
+533 (f) Installations are to identify what supplies they anticipate needing to
+534 respond to a further escalation of this outbreak.
+535
+536 (g) Installations are to place bulk order(s) for masks, gloves, eye
+537 protection, alcohol, hand gel, sanitation wipes for area
+12
+1. Consider recommending to USFJ on declaring a local Public Health Emergency (requires prior coordination with USINDOPACOM via COMUSFJ).
+2. Consider limiting access to the buildings and facilities on the installation.
+3. Seriously consider canceling large public gathering events on the installation.
+4. Re-scope, modify, or potentially cancel exercises.
+5. Establish a local leave policy and approve on a case-by case basis.
+(c) If outside the United States and considering authorized and ordered departure actions for Individuals at Risk (per REF e), coordinate through USFJ to align with the DoS and Service direction, as required in the Joint Travel Regulation.
+All units in Japan shall continue to follow all measures from previous
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+538 decontamination, bleach, towels, etc. Available options include:
+539 Theater Lead Agency for Medical Material-Pacific (TLAMM-P), Defense
+540 Logistics Agency, General Services Agency, and contractors.
+541
+542 (h) Ensure reporting to appropriate installation Public Health Officials
+543 and local Japanese Public Health Authorities IAW USFJI 40-101.
+544
+545 (i) Request support from DHA/Services for additional medical
+546 personnel, especially nursing staff and critical care support, as
+547 required.
+548
+549 (j) Plan for establishment of non-medical patient isolation and care
+550 facilities.
+551
+552 (k) Encourage strict hygiene measures, including handwashing,
+553 wiping down common surface areas each shift, no handshaking, etc.
+554
+555 (l) Consider implementing screening at installation points of entry (i.e.,
+556 installation gates, ports, PAX terminals, etc.) as applicable.
+557
+558 (3) FRAGORD 004 Restrictions to travel for all USFJ Personnel (defined
+559 in Appendix 1 to Annex A). IAW REF z, the SECDEF stated that effective
+560 immediately travel restrictions will be in effect until 30 Jun 20. All DoD
+561 Service members will stop movement, both internationally and
+562 domestically, while this memorandum (REF z) is in effect. All DoD civilian
+563 personnel, dependents of DoD Service members, and DoD civilian
+564 personnel whose travel is Government-funded will stop movement, both
+565 internationally and domestically, while this memorandum is in effect. For
+566 DoD Service members, it also includes personal leave outside the local
+567 area and non-official travel outside the local area. DoD Components may
+568 onboard civilian employees within the local commuting area only, and
+569 civilian employees whose travel to the local commuting area is not
+570 government-funded.
+571
+572 (a) FRAGORD 004 Travel to, from, through, or within Japan 573
+574 1. CHANGE FRAGORD 005 All forms of official travel (other than
+575 local travel) will require an exception to policy.
+576
+577 a. FRAGORD 001 Approval authority for exceptions to policy for
+578 all forms of official DoD travel to CDC Designated Level 2 or
+579 Level 3 locations (for DoD uniformed personnel, this includes
+580 leave and any other non-official travel) is delegated to USFJ
+581 Component commanders; Commander, III MEF; Commander
+582 MCIPAC; Commander, 7th Fleet; and, Commander, 5th Air
+13
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+583 Force. Such exceptions may be granted for compelling cases
+584 where the travel is determined to be mission essential,
+585 necessary for humanitarian reasons, or warranted due to
+586 extreme hardship.
+587
+588 (1) 589
+590
+591
+592
+593 (2) 594
+595
+596
+597
+598 b. The intent is to mitigate the spread of the virus versus finding
+599 some path to avoid directing a ROM.
+600
+601 c. All travel terminating on or after 13 Mar is covered in the
+602 guidance and has no allowance for interpretation or exceptions
+603 to ROM requirements.
+604
+605 d. Individuals pending retirement or separation in the 60 days
+606 from 14 March 2020, are exempt.
+607
+608 e. FRAGORD 002 All exception to policy (ETP) memorandums
+609 that are approved by Delegated Commanders for travel to Japan
+610 shall be sent to the following email address for situational
+611 awareness. In addition, provide the ETP approvals and
+612 disapprovals report via the spreadsheet sent SEPCOR every
+613 Tuesday and Thursday by 0900I, to include negative reports to
+614 the J11 organizational e-mail account,
+615 indopacom.yokota.usfj.mbx.j11@mail.mil. The reports will only
+616 be submitted and accepted from USARJ, CNFJ, MARFORJ and
+617 5 AF.
+618
+619 f. FRAGORD 004 Exemptions, as listed in paragraph
+620 3.e.(3).(a).4, are to be executed on a case by case basis, shall be
+621 limited in number, and shall be coordinated between the
+622 gaining and losing organizations.
+623
+624 2. Space Available (Space A) 625
+626 a. Effective March 21, 2020, for Space A, USTRANSCOM has
+627 directed, per Office of the Secretary of Defense (OSD), limited
+14
+FRAGORD 001 Delegated Commanders should assess risk to mission and risk to force based on the specific travel situations for each traveler and apply their judgment to the situation.
+FRAGORD 001 These authorities may be further delegated in writing to no lower than the first general or flag officer or member of the Senior Executive Service in the traveler’s chain of command or supervision.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+628 passenger travel to the following categories per DoDI 4515.13,
+629 January 22, 2016 Change 4, August 31, 2018 (see Appendix 2
+630 to Annex D of this order):
+631
+632 (1) Category I travelers (items 1-7)
+633
+634 (2) Category IV travelers (only items 27 and 28) 635
+636 (3) Category VI travelers (only items 44 and 48) 637
+638 b. All other categories of Space-A travel are ineligible for travel
+639 considerations.
+640
+641 3. CHANGE FRAGORD 005 Civilian employees and eligible family
+642 members who wish to travel from Japan to the United States as a
+643 safe haven under the USD (P&R) Memorandum of 20 Mar 2020,
+644 “Authorized Departure – Individuals at Higher Risk from COVID-
+645 19” will require an exception to policy to the DoD stop movement
+646 order.
+647
+648 4. FRAGORD 004 Exemptions 649
+650 a. FRAGORD 004 Travel associated with uniformed personnel
+651 recruiting and accessions activities, to include accessions, basic
+652 training, advanced individual training, and follow-on travel to
+653 the first duty station.
+654
+655 b. FRAGORD 004 Travel by patients, as well as their authorized
+656 escorts and attendants, for purposes of medical treatment.
+657 Travel by medical providers for the purposes of medical
+658 treatment for DoD personnel and their families is also
+659 authorized.
+660
+661 c. FRAGORD 004 Travel for Global Force Management (GFM)
+662 activities (defined as deployments/redeployments ordered in the
+663 GFM Allocation Plan and Combatant Command Assigned Force
+664 Demand tasking, including Service internal rotations to
+665 support, and TDY used to source ordered capabilities). Such
+666 travel to execute Operations, Activities, and Investments or
+667 Service-related training will be coordinated between
+668 INDOPACOM, the Joint Staff, and the appropriate Military
+669 Department. All GFM-scheduled deployments/ redeployments
+15
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+670 of U.S. Navy vessel and embarked units and personnel is
+671 authorized, provided they are in-transit and have met the 14-
+672 day restriction of movement provided for under reference (b.4),
+673 and any applicable subsequent guidance.
+674
+675 d. FRAGORD 004 Travel by authorized travelers who departed
+676 their permanent duty station and are "awaiting transportation,"
+677 and by authorized travelers who have already initiated travel
+678 (including intermediate stops). Such travelers are authorized to
+679 continue travel to their final destination on approved orders.
+680
+681 e. FRAGORD 004 Travel by authorized travelers whose TDY
+682 ends while this directive is in effect. Such travelers are
+683 authorized to return to their permanent duty station.
+684
+685 f. FRAGORD 004 Travel authorized by the Commander, U.S.
+686 Transportation Command (USTRANSCOM), to continue
+687 execution of the Joint Deployment and Distribution Enterprise
+688 as required to project and sustain the Joint Force globally. This
+689 includes forces (aircrews, vessel crews, and mission essential
+690 personnel) ordered on prepare-to-deploy orders alert status, air
+691 refueling, global patient movement, mortuary affairs support,
+692 inland surface, sea and air sustainment missions, support to
+693 other U.S. Agencies (as approved by the SECDEF), and moves of
+694 personnel and equipment that support USTRANSCOM's global
+695 posture requirements.
+696
+697 g. FRAGORD 004 Travel by individuals pending retirement or
+698 separation.
+699
+700 h. FRAGORD 004 Travel by those under authority of a Chief of
+701 Mission and authorized by that Chief of Mission.
+702
+703 5. FRAGORD 004 Additional Guidance 704
+705 a. FRAGORD 004 Clearly communicate the contents of REF z to
+706 those individuals affected by these travel restrictions.
+707
+708 b. FRAGORD 004 Establish pre-and post-travel screening and
+709 reception procedures for all authorized travelers as provided in
+710 REF (b.4) and any applicable subsequent guidance, to include
+711 establishing a means of communication with all personnel
+16
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+712 throughout the pre and post-travel screening and reception
+713 process and providing information regarding prescribed actions
+714 for their particular circumstances.
+715
+716 c. FRAGORD 004 Use military-or DoD-contracted end-to-end
+717 travel using aircraft or other conveyance for DoD-sponsored
+718 travelers to the greatest extent practical.
+719
+720 d. FRAGORD 004 Inform all travelers of their responsibility to
+721 contact their gaining organization in advance of travel and to
+722 keep the organization updated on their travel itinerary.
+723
+724 e. FRAGORD 004 Document within travel orders the exemption
+725 or waiver under which the travel is authorized.
+726
+727 f. FRAGORD 004 When practicable within operational
+728 requirements, consider either in-place assignment extensions or
+729 the applicability of waivers for PCS moves for uniformed
+730 personnel with school-age dependents in order to minimize
+731 school year disruption and education costs.
+732
+733 g. FRAGORD 004 Actions for Travelers: 734
+735 (1)
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+17
+FRAGORD 004 Actions taken prior to travel should personnel have an exemption or approved exception to policy.
+(a)
+FRAGORD 004 USINDOPACOM and subordinate commands shall incorporate CDC guidance into the full scope of travel planning to include the following:
+(b)
+FRAGORD 004 Coordinate with the receiving installation to ensure the post-travel requirements can be implemented at that location.
+1. FRAGORD 004 Consider the risk profile of the traveler (i.e. older individuals or those with underlying diseases).
+2. FRAGORD 004 Limit travel to those individuals who are healthy, to the greatest extent possible.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776 (b) 777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+(2) FRAGORD 004 Actions upon departure/exit screening.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+(a)
+(b)
+FRAGORD 004 USINDOPACOM and subordinate commands shall emphasize each individual's responsibility to avoid travel when sick.
+FRAGORD 004 For travel on military aircraft, subordinate commands shall ensure exit screening is conducted at the point of embarkation. At a minimum, this shall consist of a questionnaire to assess risk of exposure, temperature check (fever is >100.4F or 38C per CDC), and visual check for signs and symptoms (i.e., feeling feverish, coughing or shortness of breath per CDC) of COVID-19. A secondary medical evaluation by a health professional may be warranted. Subordinate commands shall also be prepared to appropriately manage a patient under investigation if such a determination is made, to include referral to the appropriate medical authority per CDC guidance found at https://www.cdc.gov/coronavirus/2019- ncov/hcp/index.html.
+Restriction of Movement (ROM)
+1. CHANGE FRAGORD 005 All DoD uniformed personnel, members of the civilian component, and SOFA-status dependents arriving in Japan from another country shall travel directly to their residence and remain there for a period of 14 days. This includes both official and non-official travel. The 14-day ROM will be calculated from the date the person arrived in Japan. If arriving by USN vessel, the 14 days will be calculated from the date last in another country and there were no COVID-19 cases diagnosed among the crew. Travel within Japan does not incur a ROM by virtue of this order.
+2. CHANGE FRAGORD 005 All USFJ personnel arriving in Japan from another country shall not use public transportation to a U.S. facility and area (or their residence, if residing off-base). Use of public transportation between airports, e.g., between Haneda and Narita, is prohibited. Use of private vehicles, government owned vehicles, or military air is directed from initial port of entry into Japan to final destination. Use of domestic commercial air
+18
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+796 within Japan is prohibited until the individual has completed
+797 a 14 ROM in Japan. Use of DoD-contracted or non-appropriated
+798 fund instrumentality operated bus service or onward movement
+799 by MILAIR does not constitute public transportation for purposes
+800 of this Order.
+801
+802 3. CHANGE FRAGORD 005 All non-SOFA-status contractors, host
+803 nation employees, Japan Self-Defense Forces-affiliated personnel
+804 (JSDF), and visitors to US facilities and areas arriving in Japan
+805 from another country will be denied access to all US facility and
+806 areas for 14 days from their arrival in country. JSDF personnel
+807 living on US facilities and areas may enter the U.S. facility and
+808 area on the understanding that the JSDF personnel will remain
+809 restricted to their residence for the 14 days. Exceptions may be
+810 granted to visitors arriving in Japan to temporarily reside on base
+811 to assist with childcare needs of DoD personnel stationed in Japan
+812 during the COVID-19 pandemic. Said visitors will do their ROM in
+813 the residence (or other appropriate domicile) of the children.
+814
+815 4. CHANGE FRAGORD 005 COMUSFJ retains authority to grant
+816 any ETP to the ROMs set forth herein for travel originating in the
+817 US.
+818
+819 5. All USFJ personnel shall self-monitor for COVID-19 symptoms
+820 during the 14-day ROM. They shall inform appropriate medical
+821 authorities and will be assessed within the first 24 hours of arrival
+822 in Japan and daily thereafter, for the development of symptoms of
+823 concern (fever, sore throat, cough, difficulty breathing, nausea,
+824 and diarrhea). The initial assessment will be performed via
+825 telephone or in person by a cognizant medical representative.
+826 Units will identify a person to conduct follow-on daily assessments
+827 by telephone. If any symptoms of concern develop, immediately
+828 notify their unit and cognizant medical department representative.
+829 Affected personnel will call ahead before going to a medical
+830 treatment facility, informing the medical treatment facility of the
+831 symptoms and recent arrival in Japan. A plain surgical mask
+832 should be donned as soon as possible.
+833
+834 6. CHANGE FRAGORD 005 The restrictions on movement set
+835 forth herein do not apply to transient aircrew on military aircraft,
+836 including the PATRIOT EXPRESS and aerovac aircraft, nor do
+837 restrictions of movement apply to them. Isolation and quarantine
+838 requirements set forth herein do apply, if relevant.
+839
+19
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+840 (c) Isolation. 841
+842
+843
+844
+845
+846
+847
+848
+849
+850
+851
+852
+853
+854
+855
+856 (d) 857
+1. DoD uniformed personnel, members of the civilian component, and SOFA-status dependents diagnosed with COVID-19 will be placed in isolation until cleared by competent medical authorities.
+2. JSDF personnel, LN employees, and visitors to US facilities and areas suspected of or diagnosed with COVID-19 will be denied access to all US facilities and areas until cleared by competent medical authorities.
+3. DoD uniformed personnel, members of the civilian component, and SOFA-status dependents suspected of COVID-19 (person under investigation or PUI) will be placed in isolation until cleared by competent medical authorities.
+Quarantine.
+2. JSDF personnel, LN employees, non-SOFA-status contractors, and visitors to U.S. facilities and areas who have been in close, personal contact with a person suspected of COVID-19 (or with someone diagnosed with COVID-19) will be denied access to all US facilities and areas until cleared by competent U.S. medical authorities.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+1. DoD uniformed personnel, members of the civilian component, and SOFA-status dependents who have been in close personnel contact with a PUI (or with someone diagnosed with COVID-19) will be quarantined until cleared by competent medical authorities.
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+870 (e) All components, 5 AF, and supporting commands with installations
+871 that support PATRIOT EXPRESS flights shall identify a contingency
+872 plan to house personnel in the event these flights suffer mechanical
+873 issues and are unable to continue mission with all personnel. Said
+874 installations are to forward a copy of the report to USFJ J3 at
+875 indopacom.yokota.usfj.mbx.j35@mail.mil.
+876
+877 (4) FRAGORD 001 Testing. Naval Hospital Yokosuka is designated as the
+878 primary/preferred testing lab for all COVID-19 tests by the U.S. Armed
+879 Forces in Japan of USFJ-affiliated personnel. Additional U.S. Armed
+880 Services laboratories are authorized for use if they can provide a more
+881 rapid turnaround time. The lab will report test results to the USFJ
+882 Surgeon, by encrypted email, at indopacom.yokota.usfj.mbx.j4-
+20
+ UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+883 sg@mail.mil, and to the USFJ Command Center at
+884 indopacom.yokota.usfj.mbx.j4-sg@mail.mil, in addition to the ordering
+885 military treatment facility. USFJ/PA is the release authority for any
+886 public release of a positive test result,
+887 indopacom.yokota.usfj.mbx.J021@mail.mil.
+888
+889 (5) Component and 5 AF Commander’s, Senior Operational Commanders,
+890 and USFJ Directors ensure that all units are updating and maintaining
+891 Family Care plans, as required.
+892
+893 (6) FRAGORD 004 Effective immediately, U.S. Forces Japan Service
+894 Components shall report all Host Nation Employees (MLC, IHA, MC)
+895 diagnosed with COVID-19 to the following email:
+896 indopacom.yokota.usfj.mbx.j14@mail.mil as soon as possible after
+897 diagnosis. Format will be provided by SEPCOR through the J1 channels.
+898 U.S. Forces, Japan Service Components will complete blocks 7-9 and
+899 send the report to the address above.
+900
+901 4. Admin and Logistics.
+902
+903 a. FRAGORD 002 Reporting ROM 904
+905 (1) CHANGE FRAGORD 005 Effective immediately, all DoD units and
+906 affiliated organizations operating within Japan are directed to report
+907 relevant personnel and dependents meeting any of the situations
+908 outlined in para. 3.e.(3).(b) Restriction of Movement (ROM) to the
+909 designated office (designated by the Service Component Commanders) on
+910 the installation where the unit’s/organization’s personnel are normally
+911 present for duty. Personnel in ROM status in a location away from home
+912 station will be reported to the installation where the ROM is being
+913 performed. This includes tenant units e.g., NAF Misawa to Misawa AB,
+914 DoDEA, Exchanges, American Red Cross, United Service Organization,
+915 and similar civilian organizations with personnel having status as
+916 members of the civilian component. Installation commanders will
+917 designate an organization/office to receive and consolidate the numbers.
+918 The ROM numbers (do not include “Isolation” or “Quarantine”) will, in
+919 turn, be provided through Service Component (USARJ, CNFJ, MARFORJ,
+920 and 5 AF) to the USFJ/J11 organizational e-mail account,
+921 indopacom.yokota.usfj.mbx.J11@mail.mil, every Tuesday and
+922 Thursday by 0900I, to include negative reports. The reports will only be
+923 submitted and accepted from the USARJ, CNFJ, MARFORJ, and 5 AF.
+924
+925 (2) FRAGORD 002 Service Component Commanders of USARJ, CNFJ,
+926 MARFORJ and 5 AF, will submit their report which reflects the total
+21
+  UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+927 ROM numbers within their AOR and a ROM break out for each of their
+928 installations.
+929
+930 (3) FRAGORD 002 The report will include number in ROM by status, i.e.,
+931 military, civilian employees, contractors, host nation employees, and
+932 dependents.
+933
+934 (4) FRAGORD 002 Submit inputs via the excel attachment sent SEPCOR
+935 via J1 channels and do not modify the excel file format. Any significant
+936 changes from previous reports should include a reason why the delta
+937 exists within the spreadsheets remarks section. Do not include PII/PHI.
+938
+939 (5) FRAGORD 002 Effective immediately, all Installation Commanders
+940 will ensure DoD, SOFA members, and contractors who reside on an
+941 installation and who are in ROM status are identified by name and
+942 location. This information is to be shared with installation first
+943 responders for appropriate donning of PPE by these first responders
+944 during service calls. For those service personnel who are living off base
+945 and require assistance of installation personnel, ROM status should be
+946 emphasized.
+947
+948 b. FRAGORD 002 Reporting Isolation and Quarantine 949
+950 (1) FRAGORD 002 Effective immediately, all DoD units and affiliated
+951 organizations operating within Japan are directed to report relevant
+952 personnel and dependents meeting any of the situations outlined in para.
+953 3.e.(3).(c) “Isolation” and 3.e.(3).(d) “Quarantine” to the designated
+954 Installation Surgeon on the installation where the unit’s/organization’s is
+955 personnel are normally present for duty. Personnel in
+956 Isolation/Quarantine status in a location away from home station will be
+957 reported to the installation where the Isolation or Quarantine is being
+958 performed. Installation commanders will designate a Surgeon Office to
+959 receive and consolidate the numbers.
+960
+961 (2) The following information is to be reported via the Service medical
+962 channels to the USFJ Surgeon organizational account,
+963 indopacom.yokota.usfj.mbx.j4-sg@mail.mil, for tracking every Monday
+964 and Thursday by 1600I: number in Isolation and number in Quarantine
+965 by status, i.e., military, civilian employees, SOFA contractors, SOFA
+966 dependents, and host nation employees,; date entered quarantine; date
+967 entered isolation; date test sent; date lab results received; and date
+968 released from tracking.
+969
+22
+ UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+970 (3) FRAGORD 002 Submit reports per format in excel attachment sent
+971 SEPCOR via Surgeon medical channels. Do not include PII/PHI.
+972
+973 c. FRAGORD 002 U.S. Naval Hospital Yokosuka is to submit daily status
+974 reports to the USFJ Surgeon regarding the laboratory. The report will
+975 include the number of tests completed during the previous day; tests to be
+976 performed; capacity, i.e., number of tests that could be performed per day,
+977 for the next seven (7) days; status of requisite supplies; and, any potential
+978 for interruption of testing along with proposed mitigation measures.
+979
+980 d. FRAGORD 004 HQ USFJ is not responsible for funding service-specific
+981 requirements in support of COVID-19 Contingency Operations. Please
+982 contact supporting Resource Management Offices for information or
+983 coordination of funding ISO COVID-19 Contingency Operations.
+984
+985 5. Command and Signal
+986
+987 a. Commanders Critical Information Requirements. To be sent SEPCOR. 988
+989 b. Communication.
+990
+991 (1) FRAGORD 001 Public Affairs Guidance from USFJ PAO will be
+992 provided via separate correspondence. Public Affairs POC is Col Robert
+993 Firman, robert.a.firman.mil@mail.mil,
+994 indopacom.yokota.usfj.mbx.J021@mail.mil 225-3656.
+995
+996 (2) CHANGE FRAGORD 005 Medical POC is CAPT Robert Lipsitz,
+997 robert.j.lipsitz.mil@mail.mil, 225-5813.
+998
+999 (3) Legal POC is Mr. Dale Sonnenberg, dale.l.sonnenberg.civ@mail.mil,
+1000 225-7717.
+1001
+1002 (4) Policy POC is COL Marvin Haynes, marvin.g.haynes.mil@mail.mil,
+1003 225-4119.
+1004
+1005 6. This order is effective 1900I, 07 May 20, and will remain in effect until
+1006 rescinded.
+1007
+1008 ACKNOWLEDGE via the Orders Tracker. 1009
+1010
+1011
+1012
+1013 Schneider
+1014 Lt Gen
+23
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+1015
+1016
+1017
+1018
+1019
+1020
+1021
+1022
+1023
+1024
+1025
+1026
+1027
+1028
+1029
+1030
+OFFICIAL:
+By Authority: Pompa
+J3
+Annex
+Annex A: Task Organization Annex C: Operations
+Annex D: Logistics
+Annex M: Medical
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+24
+UNCLASSIFIED//FOR OFFICIAL USE ONLY

@@ -1,0 +1,336 @@
+05-14-2020
+BHC Sasebo COVID–19 Contact Tracing SOP
+Draft, 12-May–2020 Attachments
+1. Example Isolation to PUI Email
+2. Example Quarantine Notice to Close Contacts Email
+3. Example SIQ Email
+4. Example Return to Work Email
+5. Return to Work (RTW) Guidelines for Coronavirus Disease (COVID–19) 6. PUI Contact Tracing Go By
+7. PUI Contact Tracing Form
+8. Close Contact Screening Form
+9. Close Contact Screening Form (Japanese)
+10. Isolation, Quarantine, and ROM Process Map 11. Contact Tracing Overview Diagram
+Purpose
+Establish command procedural guidance for contact tracings performed on suspected or confirmed cases of COVID–19.
+Background
+SARS-CoV–2 is the causative agent of coronavirus disease 2019, abbreviated COVID–19. This is a novel disease, so our knowledge about the illness is scarce and rapidly changing. SARS-CoV–2 is a betacoronavirus, which is the same type of virus that caused the original Severe Acute Respiratory Syndrome (SARS) outbreak in 2002–2003 (WHO (https://www.who.int/ith/diseases/sars/en/) ), and the Middle East Respiratory Syndrome (MERS) outbreak in 2012 (PubMed (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545842/) ).
+1 of 21
+
+05-14-2020
+This document uses the following assumptions about the illness, based on publications to date and guidance from CDC, WHO, and local health departments:
+Incubation Time: Period of incubation time is estimated at 2 to 10 days, on average 5 days (Annals (https://www.ncbi.nlm.nih.gov/pubmed/32150748) ). 14 days of quarantine gives a 95 percent confidence interval for infected individuals to develop symptoms (Clinical Medicine (https://www.ncbi.nlm.nih.gov/pubmed/32079150/) ).
+Period of Transmission: Data is scarce, but a recent study from Taiwan estimates that most transmission occurs before or during the 6th day of symptoms (JAMA (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2765641) ). Pre-symptomatic spread is believed to be possible for at least 2 and likely several more days prior to onset of symptoms (J Infect (https://www.ncbi.nlm.nih.gov/pubmed/32283156) ).
+Mode of Transmission: SARS-CoV–2 is “primarily transmitted between people through respiratory droplets and contact routes.” “Droplet transmission occurs when a person is in close contact (within 1 m) with someone who has respiratory symptoms (e.g., coughing or sneezing) and is therefore at risk of having his/her mucosae (mouth and nose) or conjunctiva (eyes) exposed to potentially infective respiratory droplets. Transmission may also occur through fomites in the immediate environment around the infected person. Therefore, transmission of the COVID–19 virus can occur by direct contact with infected people and indirect contact with surfaces in the immediate environment or with objects used on the infected person.” (WHO (https://www.who.int/news-room/commentaries/detail/modes-of- transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations) )
+Duration of Survival on Surfaces: After 72 hours the SARS-CoV–2 virus is unlikely to be viable on most surfaces (NEJM (https://www.nejm.org/doi/full/10.1056/NEJMc2004973) ). Therefore we recommend cleaning only surfaces which have had contact in the past 3 days by the PUI.
+Goals
+To reduce the spread of COVID–19 current practice according to Navy Return to Work Guidelines is to isolate suspected or known cases of COVID–19, and to quarantine their close contacts. Our goal in the creation of this SOP is to create a durable process with the following goals:
+STOP THE SPREAD OF ILLNESS.
+Immediate isolation of patients who are possibly COVID–19 positive.
+Quarantine of all close contacts before the close of business, even if after hours.
+Terms
+2 of 21
+
+05-14-2020
+Terms
+Person Under Investigation (PUI) - Individual who is suspected to have been infected with the SARS-
+CoV–2 virus.
+Close Contact - An individual who is thought to have a higher risk of having been infected with COVID–19 due to being in close physical proximity with a PUI or confirmed COVID–19 patient. Close contact is defined as being within 6 feet for 10 minutes or more, without PPE. Some actions, such as sharing a meal or passing physical objects without decontamination will place an individual at higher risk of infection, so clinical judgment must be applied to all cases.
+Time To Isolation (TTI) - Time from designation of an individual as a PUI until they are in isolation quarters. Time spent at medical being evaluated does not count against this total if they were in an isolation area such as the COVID tent. Goal is zero.
+Time to Quarantine (TTQ) - Time from PUI designation until all close contacts have been placed in quarantine quarters. Goal is this will be completed the same business day, and always under 24 hours.
+Close Contacts Quarantined (CQ) - Number of close contacts identified and quarantined.
+Contacts Not Quarantined (CNoQ) - Total number of contacts identified that were deemed NOT close contacts, and therefore NOT quarantined.
+ 3 of 21
+
+05-14-2020
+Roles and Responsibilities Medical Officer Of the Day (MOOD)
+The MOOD is ultimately responsible for initiation of the Contact Investigation, and ensuring it is completed in a timely manner.
+Will perform in-person evaluation of individuals who present with symptoms concerning for COVID–19.
+Determines if an individual is to be designated a PUI.
+Once PUI has been identified, will notify Preventive Medicine to initiate contact investigation:
+Preventive Medicine will be notified by either 1) calling the EHO directly, or 2) calling the PMT duty phone. This call is analogous to a consultation to a specialist.
+The following information is required by Preventive Medicine to start the investigation:
+Name of the individual.
+How to contact the PUI. This should be their current physical location, or a telephone number.
+The date that their symptoms began.
+Once PUI has been identified, MOOD will contact the COVID Nurse to coordinate testing of the patient for COVID–19, and to add to the COVID SIQ Tracker.
+Once PUI is identified and their plan of care is in motion, immediately brief the OIC to ensure situational awareness.
+Will be immediately available to advise the Lead Investigator on whether to designate an individual as a close contact in situations where the decision is unclear.
+Will be notified immediately when individuals from investigation are placed in isolation or quarantine.
+COVID Physician
+The COVID Physician is overall responsible for all BHC COVID–19 processes. The COVID Physician will ensure each responsible party has adequate training, knowledge, and resources necessary to complete their designated tasks.
+Be available to MOOD for consultation or assistance as needed.
+Ensure adequate communication between OIC, EHO, and all clinical staff at all times.
+4 of 21
+
+05-14-2020
+Triage Nurse
+The Triage Nurse will ensure the patient is clinically stable and safe at all times. Additionally, the Triage Nurse will coordinate COVID–19 lab testing of the patient and quarantined individuals.
+Once notified of a PUI, assist in coordination between the MOOD, EHO, and Trace Team Officer to initiate the Contact Investigation.
+Coordinate with lab to perform COVID–19 swab. Current constraints are that this can only be performed Monday, Tuesday, Wednesday, and Thursday prior to 0900 in order to package and ship in time to have the lab run on arrival at Naval Hospital Yokosuka (NHY). When labs are sent on Thursday, NHY must be notified and they must confirm their ability to perform the testing. Notify the COVID-RN about the patient to add the PUI to the COVID–19 SIQ Tracker.
+COVID Nurse (COVID-RN)
+The COVID-RN is overall responsible for ensuring the Triage Nurse is trained and has available resources to perform their task. Additionally, the COVID-RN will track and run the monitoring program of SIQ and COVID–19 positive cases.
+Be available to Triage Nurse for consultation or assistance as needed.
+When notified of a SIQ or PUI, add to the COVID–19 SIQ Tracker. Create appointments for the PUI for the remainder of the week (appointment is made with the MOOD each day).
+Ensure the In Person Check Team is aware of the PUI for the remainder of the week. All PUI’s and confirmed COVID–19 patients must have an in person evaluation per the BHC In Person Check SOP for the duration of their isolation.
+Lab Testing
+Simultaneously to the above, lab testing will be arranged for the PUI and their close contacts. This should occur as soon as possible, but is limited by current swabbing/shipping rules.
+5 of 21
+
+05-14-2020
+Environmental Health Officer (EHO)
+The EHO is responsible for training and preparing the Preventive Medicine Technicians to complete a timely, accurate, and complete Contact Investigation. Summary reports to the BHC Sasebo OIC, Combined Fleet Activities Sasebo (CFAS) Commanding Officer (CO), and Yokosuka Preventive Medicine are the ultimate responsibility of the EHO. When available, the EHO will participate in the Contact Investigation, provide oversight to the Lead Investigator and may assist in contacting the PUI, close contacts, and their respective commands.
+Responsible for assigning a trained Lead Investigator when a new PUI is identified. This can occur either in person, or by a procedural assignment (pre-designated Lead Investigators).
+Responsible for sending the following trackers:
+9-Line to Command (of PUI/Sponsor)
+when: new PUI designated
+generated by: PMT -> EHO
+sent out by: EHO (MEM/Lead Investigator when volume increases) to: CO of command
+cc: CFAS CO, CSO, OIC, SEL, COV-RT PL, MEM
+CFAS Daily Base Quarantine/Isolation List
+when: by end of day (goal 1200 to allow CFAS to organize rooms as required) generated by: PMT -> EHO
+sent out by: SEL
+to: CSO, CMDCM
+cc: OIC, COV-RT PL, COVID RN, MEM, Quarantine Officer
+Naval Hospital Yokosuka Preventive Medicine Tracker (contains HIPAA) when: end of day
+generated by: PMT -> EHO
+by: EHO
+to: Yoko COV-RT Admin Officer
+cc: OIC, COV-RT PL, COVID RN, MEM
+6 of 21
+
+05-14-2020
+Host Nation, City of Sasebo Public Health Department Liaison
+The BHC Sasebo Public Health Department Liaison is responsible for communicating directly with the local government Public Health Department. No prior approval from CFAS or the CFAS PAO is required to communicate to the public health department. However, when contacting the public health department an emphasis should be made that this is medical information, and not for public release.
+Contact Japanese speaking individuals as part of a contact trace team to obtain further information, or to recommend quarantine if host nation (HN) individual is a close contact of a PUI. As directed by Trace Team Officer or EHO contact City of Sasebo Public Health Department when a Japanese citizen is identified as a close contact of a PUI. Clearly communicate the status of the PUI (confirmed or suspected), along with the anticipated timeframe for test results.
+Notify EHO of any concerns or individuals brought up by the public health department who have ties the CFAS.
+As directed by Trace Team Officer or EHO notify City of Sasebo Public Health Department about areas off-base which have been identified as needing cleaning.
+7 of 21
+
+05-14-2020
+Trace Team Officer
+The Trace Team Officer is overall responsible for completion of the Contact Investigation for a designed PUI.
+Ensures the parameters of the investigation are clearly defined by the MOOD at the outset of the investigation.
+Starts the TTI and TTQ clocks!
+Ensures Lead Investigator has all necessary resources (training, base POC information, contact investigators, Japanese speaking contact investigators) to properly perform the Contact Investigation.
+Assists in coordination with Fleet Medical, if the individual is on a ship. Ensures open lines of communication and information sharing between local PMT’s and the ship’s PMT.
+Sends Isolation Notice and Quarantine Notice immediately as these individuals are identified by the Lead Investigator. Examples, and cc lists are included as attachments to this document. These notices should be sent immediately once the individual to be isolated or quarantined has been contacted.
+Stops the TTI clock once PUI is isolated.
+Notifies the barracks of any individuals requiring movement to isolation or quarantine barracks. Coordinates the pick-up of the individual by the barracks movement team.
+Once the investigation is complete, notifies the MOOD. A final list of all identified contacts (close or not), the dates of their contact, and the nature of their contact will be reviewed with the MOOD at the conclusion of the investigation. The purpose of this review is to ensure no questions remain about missing contacts or contacts whose exposure is ambiguous. The final list can be in the form of handwritten notes, but should include at a minimum:
+Name of contact
+Relationship to PUI
+Contact information (phone, e-mail)
+Date of first contact
+Date of last contact
+Nature of contact (ie, why are they/are they not a close contact?)
+Whether this person was quarantined
+Any current symptoms this person has developed. (if so, what are they, and when did they start?)
+Home location, and family/roommates
+Once the final review is completed, stop the TTQ clock! Add up your CQ and CNoQ and compare to previous investigations.
+Last task is to contact the areas identified during the investigation that need cleaning. Areas
+8 of 21
+
+05-14-2020
+visited by the PUI in the last 3 days should be cleaned.
+- On Base: POC Saori-san (saori.nosho.ja@fe.navy.mil).
+- Off Base: POC to be determined.
+- Ship: The respective ship’s medical will be given a list of shipboard locations which were identified for cleaning during the investigation.
+9 of 21
+
+05-14-2020
+Trace Team Lead Investigator
+All actions below will either be completed by the Lead Investigator themselves, or may be delegated to Contact Investigators.
+Conducts initial interview with the PUI to develop a complete and accurate list of all contacts from 2 days prior to onset of symptoms until present.
+Develop a list of all locations visited during infected period.
+Identify all areas visited recently in the past three days.
+When developing location list, three areas should be the focus: on base, off base, and ship. Notify the Trace Team Officer of individuals who require quarantine as those individuals are identified.
+Notify the Trace Team Officer of areas identified for cleaning.
+Inform Trace Team Officer immediately if resources required to complete the investigation are needed. Examples of resources would be Japanese speaking investigator, points of contact for a command, etc...
+Ensure all PUI’s and Quarantined individuals are added to the PMT tracker.
+Example: How a Contact Investigation Should Transpire
+10 of 21
+
+05-14-2020
+Example: How a Contact Investigation Should Transpire
+1. The PUI is designed by the MOOD. How exactly this PUI comes to our attention will vary case by case, but ultimately it will be the current MOOD who has to make the call on whether to give them the PUI label.
+2. Preventive Medicine is notified by MOOD. This will be with a call to EHO, HM2 Hernandez, or PMT Duty Phone.
+3. COVID Nurse is notified by MOOD to coordinate lab testing of the individual.
+4. A Trace Team Officer and Lead Investigator will be designated for the entirety of the investigation.
+Additional Contact Investigators may be assigned initially, or after further details have been
+gathered.
+5. The Lead Investigator will contact the PUI, and perform the data gathering step. On paper, this is
+as simple as just going through the PUI’s contact log. However, in reality this process is not linear - it involves going back and forth with the PUI, asking questions, asking more questions, and may not have a clear endpoint.
+6. The Lead Investigator will assign Contact Investigators to reach out to close contacts as necessary. All close contacts will be placed into quarantine - either in the quarantine barracks or at home. The Lead Investigator has authority to immediately notify and quarantine individuals who meet criteria as close contacts. If there is a question, it should be vetted with the Trace Team Officer, EHO, MOOD, or COVID Physician.
+7. Once the investigation is complete, the MOOD is notified by Trace Team Officer. The final list of all identified contacts (close and not) is reviewed. If everything looks good, the TTQ clock is stopped!
+Special Testing Concerns at BHC Sasebo
+Our current ability to test on only Monday thru Thursday, with a result time of 2–4 days results in a potential delay from time of a positive COVID–19 test result in a PUI to isolation of close contacts. For instance, consider the following scenario using the average time of 3 days for test results:
+Day 0: PUI presents to COVID Clinic on Monday at 1300.
+Day 0: They are placed in isolation and close contacts (10) are placed in quarantine.
+Day 1: The PUI is tested on Tuesday morning.
+Day 3: PUI test result comes back POSITIVE Thursday afternoon.
+Day 7: The 10 close contacts are then all tested the following Monday morning.
+Day 9: Wednesday night the test results come back, with 1 close contact testing positive.
+In this very plausible scenario it takes 9 days before we are able isolate the positive close contact and then quarantine the next iteration of close contacts.
+The best case scenario is a PUI identified on Sunday night, tested Monday morning with 2 day
+11 of 21
+
+05-14-2020
+turnaround time on the test results, allowing testing of close contacts Wednesday morning (Day 2), with results and subsequent next iteration isolation and quarantine on Friday (Day 4).
+Worst case scenario is a patient presenting Thursday mid-day, resulting in testing on the following Monday (Day 4), results on Thursday afternoon (Day 7), subsequent testing on Monday (Day 11), and receiving a positive result on Thursday (Day 14).
+Based on current experience the worst case scenario is not unrealistic. NHY is following CDC guidelines about prioritization of testing, which places asymptomatic testing as the lowest priority. As of the writing of this document, testing sent from Sasebo to NHY resulted in the following turnaround times: 60 hours, 36 hours, 84 hours, 84 hours. Even the best case scenario would make controlling an outbreak difficult, if not impossible, with a 4 day lag time to next-iteration testing (Science (https://science.sciencemag.org/content/368/6491/eabb6936) ).
+Proposed solution: As a result of the above, our local practice will be to perform COVID–19 testing on al close contacts immediately, on the same day as the testing of the PUI. This will significantly reduce the delay in identifying positive follow-on cases. The MOOD who identifies the PUI will have ultimate discretion and may waive this option (and delay testing of close contacts). However as of the writing of this document, standard practice at BHC Sasebo is immediate COVID–19 testing of all close contacts without waiting for the result of the PUI’s COVID–19 test result. Testing should be performed only on close contacts whose exposure was 3 or more days prior, as current literature suggests a minimum incubation time of 2 days. Testing of close contacts does NOT automatically designate them as a PUI, they can remain in quarantine (vice isolation) until test results return.
+This practice will be reevaluated weekly to ensure it is still appropriate. Factors which may result in modification of this practice would be acquisition of rapid-testing capability, increased reliability and availability of mail-out testing, overwhelming community spread making the volume testing infeasible, or temporary shortages of testing supplies such as nasopharyngeal swabs.
+After the Investigation
+Daily checkups on the PUI and Quarantined individuals will occur according to the SOP’s developed by the COVID-RN and PMT’s for daily monitoring. Once those SOPs are formalized they will be included in this document.
+Miscellaneous Notes for Investigators
+12 of 21
+
+05-14-2020
+Miscellaneous Notes for Investigators
+Google maps (on their phone) has a history feature that may be helpful for patients to jog their memory if they have enabled location sharing.
+When reaching out to contacts, do not share the identity of the PUI - patient privacy still matters. We can encourage the PUI to tell people so that they may be aware - but this is not a requirement.
+Coordination with Fleet
+In order to maintain consistency in the process, BHC Sasebo should assume responsibility for the contact investigation of any individual currently located at CFAS, including any fleet sailor on a ship currently in pier at CFAS.
+Early coordination with the ship’s medical department is key to ensure adequate access and communication with any individual who needs to be interviewed or quarantined.
+Fleet medical departments are encouraged to contact BHC Sasebo Duty PMT immediately when they have a PUI or suspected PUI.
+If for a CTF–76 sailor is possible on the USS America, the contact investigation should still be completed immediately, but if testing is possible in less than 4 hours then quarantine of close contacts could reasonable be delayed until test results are obtained. If greater than 4 hours is expected no modification of the process is recommended. The MOOD is responsible for making the determination of whether to immediately quarantine close contacts or wait until test results.
+ 13 of 21
+
+05-14-2020
+Attachment
+Isolation Notice to the PUI
+subj: Isolation Notice ICO [insert PUI initials] from: Trace Team Officer
+to: PUI
+cc:
+PUI’s Chain of command (their Chief, or DivO if officer) CSO
+Command Medical (if not CFAS patient)
+OIC
+EHO
+MOOD
+COVID Physician COVID RN
+BHC SEL Barracks
+Example Isolation Notice Email: ICO: [PUI Full Name]
+Effective Date: [Date]
+The above named individual is recommended to be placed in isolation until cleared by medical.
+Your symptoms are concerning for a COVID–19 infection. You have been designated as a Person Under Investigation (PUI), and COVID–19 testing has or will occur.
+You will be tested for COVID–19 with a nasal swab. This test can only be performed on certain days, as it must be shipped to Naval Hospital Yokosuka’s Lab.
+Isolation will consist of a private room with a private bathroom. While in isolation you will be contacted several times a day to check up on your status.
+1. A Preventive Medicine Technician from BHC Sasebo will call daily to see how you are doing.
+2. A corpsman will come to your isolation room to perform an in-person check including checking
+14 of 21
+
+05-14-2020
+your heart rate and oxygen levels daily.
+3. A Nurse from Branch Health Clinic Sasebo will also call daily to check up on you, talk about your
+symptoms, and answer questions.
+If you are concerned about worsening symptoms, contact BHC Sasebo Duty Desk (DSN 252–2551 or 0956–50–2551). You will be connected to a nurse or doctor who can discuss your symptoms and determine if further evaluation is necessary. Make sure to say that you are currently in isolation due to a suspected COVID–19 infection.
+If your COVID–19 test comes back negative, you will be cleared once you have no fever and your symptoms are improving for three days (without use of medications), and at least 7 days have passed since your symptoms first started.
+If your COVID–19 test is positive, it will take a little longer before you can be released. After a positive test you must meet the following criteria:
+At least three days (72 hours) have passed without a fever of 100.4° F or higher, and you have not taken any Tylenol, Motrin, etc... during those three days.
+Cough, shortness of breath, and other respiratory symptoms must be improving.
+It has been at least 14 days since your symptoms first appeared.
+A quarantine period may also be required. If you have a known exposure to COVID–19 you may need to complete a period of quarantine even if your lab test comes back negative. In that case your quarantine will be completed after 14 days, counted from the last day of suspected exposure to COVID–19.
+WHAT TO DO WHEN YOU ARE SICK
+Monitor your symptoms carefully. If your symptoms get worse, call BHC Sasebo to discuss.
+Common symptoms of COVID–19 include fever and cough. Trouble breathing is a more serious symptom that means you should get medical attention.
+When to Seek Medical Attention: If you develop emergency warning signs for COVID–19 get medical attention immediately. Emergency warning signs include: - Trouble breathing - Persistent pain or pressure in the chest - New confusion or inability to arouse - Bluish lips or face
+If you have any questions about how to keep yourself well, call BHC Sasebo Duty Preventive Medicine at 090–5730–9840.
+If you feel your symptoms are worsening, call BHC Sasebo Duty Corpsman at 0956–50–2551 (DSN 252–2551).
+If you are having a medical emergency, call 911 (on base), or 0956–50–0911 (off base or cell).
+15 of 21
+
+05-14-2020
+Attachment
+Quarantine Notice to Close Contacts
+subj: Quarantine Notice ICO [insert close contact initials] from: Trace Team Officer
+to: Close Contact
+cc:
+Command Medical (if not CFAS patient) CSO
+EHO
+MOOD
+COVID Physician
+BHC Senior Enlisted Leader (SEL) Barracks
+Note, = only contacted if quarantine barracks room is needed
+Example Quarantine Notice Email: ICO: [Close contact full name]
+Effective Date: [Date]
+Due to exposure to a person with known or suspected COVID–19 infection, the above named individual is recommended to be placed in quarantine. This quarantine will last for a period of 14 days since last possible exposure. If the suspected exposure is a Person Under Investigation whose COVID–19 lab test returns negative, this quarantine will end immediately.
+The purpose quarantine is to keep you separated from other people while we help you monitor for symptoms of COVID–19.
+Quarantine must consist of a private room with a private bathroom.
+A Preventive Medicine Technician (PMT) from Branch Health Clinic Sasebo will contact you daily to check up on you, talk about any new symptoms, and answer questions. Symptoms of concern include fever, cough, shortness of breath or difficulty breathing, chills, repeated shaking with chills, muscle pain, headache, sore throat, and/or new loss of taste or smell.
+   16 of 21
+
+05-14-2020
+If you develop symptoms concerning for COVID–19, you will be thoroughly evaluated and tested for COVID–19.
+WHAT TO DO WHILE ON QUARANTINE:
+Follow these rules while you are in Quarantine to stay healthy and avoid spreading your illness to your roommates.
+Do not leave your residence or quarantine barracks unless instructed by BHC Sasebo Preventive Medicine, or in cases of true emergencies.
+Monitor for symptoms carefully. If you develop symptoms, call BHC Sasebo to discuss.
+If you must leave quarantine for a medical appointment, follow posted signs at the clinic about how to enter the building when you are at risk of carrying COVID–19.
+Cover your cough and sneezes with the inside of your arm. Wash hands or use an alcohol based cleaner after sneezing or coughing.
+Wash your hands often with soap and water for at least 20 seconds or clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+Stay in a specific room, and do not have contact with other people in your home. You must use a separate bathroom. If you need to leave your home for emergencies wear a facemask.
+Avoid sharing personal items with other people in your household, like dishes, towels, and bedding.
+Clean all surfaces that are touched often, like counters, tabletops, and doorknobs. Use household cleaning sprays or wipes according to the label instructions.
+Do not have visitors who do not have an essential need to be in the room.
+If you have any questions about how to keep yourself well call BHC Sasebo Duty Preventive Medicine at 090–5730–9840.
+If you feel your symptoms are worsening, call BHC Sasebo Duty Corpsman at 0956–50–2551 (DSN 252–2551).
+If you are having a medical emergency, call 911 (on base), or 0956–50–0911 (off base or cell).
+17 of 21
+
+05-14-2020
+Attachment SIQ Notice
+subj: SIQ ICO [insert SIQ individual’s initials] from: Trace Team Officer, MOOD or COVID RN to: SIQ Individual
+cc:
+SIQ Individual’s Chain of command (their Chief, or DivO if officer) Trace Team Officer
+MOOD
+COVID RN
+Example SIQ Recommendation E-mail ICO: [SIQ individual full name]
+Effective Date: [Date]
+Recommend duty status modification for the above named individual as follows:
+SIQ, CONFINED TO QUARTERS FOR minimum of XXX (1–14) DAYS. While you have symptoms you should wear a mask, wash your hands frequently, and maintain 6 feet of distance from other people to help minimize the chances of transmitting any illness. You may leave your quarters to get meals. Call BHC Medical if your symptoms change or worsen. Call BHC Medical for re-evaluation if you continue to have symptoms at the end of your SIQ period.
+Do NOT return to full duty, work, or school until: - It has been 7/14 days since symptoms started - No temperature above 100.4° F with oral thermometer for 3 days - Not taking Tylenol, Motrin, etc., for 3 days - No current fever symptoms (shivering, shaking, chills, aches, etc...) - Improvement other symptoms (sore throat, cough, congestion, fatigue, etc.)
+Based on your history, the EARLIEST you could return to work would be: Date. WHAT TO DO WHILE SIQ
+Follow these rules while you are Sick in Quarters (SIQ) to stay healthy and avoid spreading your illness to your family or roommates:
+18 of 21
+
+05-14-2020
+Stay home from work, and away from other public places. Get rest and stay hydrated. Monitor your symptoms carefully. If your symptoms get worse, call BHC Sasebo to discuss.
+If you have a medical appointment, follow posted signs at the clinic about how to enter the building when you have symptoms that could be related to COVID–19.
+Cover your cough and sneezes with the inside of your arm. Wash hands or use an alcohol based cleaner after sneezing or coughing.
+Wash your hands often with soap and water for at least 20 seconds or clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+As much as possible, stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available. If you need to be around other people in or outside of the home, wear a face-mask.
+Avoid sharing personal items with other people in your household, like dishes, towels, and bedding.
+Clean all surfaces that are touched often, like counters, tabletops, and doorknobs. Use household cleaning sprays or wipes according to the label instructions.
+Do not have visitors who do not have an essential need to be in the room.
+If you have any questions about how to keep yourself well, call BHC Sasebo Duty Preventive Medicine at 090–5730–9840.
+If you feel your symptoms are worsening, call BHC Sasebo Duty Corpsman at 0956–50–2551 (DSN 252–2551).
+If you are having a medical emergency, call 911 (on base), or 0956–50–0911 (off base or cell).
+19 of 21
+
+05-14-2020
+Attachment
+Return to Full Duty Recommendation
+ICO: [Isolation, Quarantine, or SIQ Individual) Date: [Effective date]
+Recommend duty status modification for the above named individual as follows:
+Return to FULL DUTY. No further restrictions. No specific precautions required. You may return to work and be around other people. If you experience new or worsening symptoms call BHC Medical to discuss if you need to be re-evaluated.
+If you are flagged by gate security, you may show this e-mail to verify the date you received clearance to return to work.
+20 of 21
+
+05-14-2020
+Attachment
+Points of Contact
+CFAS
+CFAS CDO: 090–1517–7969
+CSO: CDR Douglas Kennedy douglas.kennedy@fe.navy.mil
+Barracks POC: Chief Jessica Rodriguez Jessica.Rodriguez@fe.navy.mil
+On-Base Cleaning:
+Saori-san (saori.nosho.ja@fe.navy.mil).
+Branch Health Clinic Sasebo
+Preventive Medicine
+Office Phone: DSN 315–252–2584 Duty Phone: 090–5730–9840
+EHO: LT Arnel Duvet arnel.duvet.mil@mail.mil, DSN 252–2586
+COVID Physician: LCDR Christopher Rock christopher.m.rock2.mil@mail.mil, DSN 252–2557
+COVID RN: LT Svetlann Atwood svetlana.k.atwood.mil@mail.mil
+OIC: CDR Kyle Dohm kyle.d.dohm.mil@mail.mil
+Senior Enlisted Leader (SEL): HMCM Lorenzo Branch lorenzo.e.branch.mil@mail.mil
+21 of 21

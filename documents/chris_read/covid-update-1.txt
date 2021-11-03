@@ -1,0 +1,67 @@
+All,
+
+Here is the latest update on the situation with COVID-19.    
+
+Japan local situation: 
+13,614 confirmed cases; 385 deaths.  7-day average: 375 (for comparison, 10 days ago the 7-day average was 526).  It is a favorable trend, without a corresponding downturn in testing (see attached charts).  The number of new cases in Tokyo on Sunday dropped to 72, the lowest number since 01 April and the first time in 13 days that the number of cases dropped below 100.  Today was the lowest single-day increase nationwide since March 30, adding only 173 cases.  This is perhaps due to increased social distancing.  Cell phone data showed contractions in personal movement in the range of 50-60%, though short of Prime Minister Abe's hoped-for 80% reduction, prompting a request for greater distancing which may be helping reduce new infections as Golden Week starts (29 April, 3-6 May). https://www.bloomberg.com/news/articles/2020-04-12/japanese-minister-urges-stricter-social-distancing-nikkei-says
+
+The government is taking a cautious approach to the possibility of extending the state of emergency (current declaration expires 06 May) for a considerable amount of time as public frustration simmers over business suspensions and restrictions on going out. The news comes just days after a senior official said an extension was "unavoidable."  https://www.japantimes.co.jp/liveblogs/news/coronavirus-outbreak-updates/
+
+In Yokosuka City, the emergency public broadcast system (large speakers) blared reminders to "stay home" and limit outdoor activities.  Total cases is at 42.       
+
+
+Rumor mill control: 
+No hospitalized positive COVID-19 patient currently.  No epidemiologic evidence of community spread on any of our installations, but we continue to have new cases in Yokosuka.    
+
+
+Global situation:
+Over 3 million total positive worldwide with over 211,000 deaths.  In the US there are now over a million confirmed cases (~1/3 of global total) with over 56,000 deaths (~1/4 of global total).  Singapore shot past Japan in total cases, now nearing 15,000, much of which is among the foreign population living in dormitories.  
+
+
+
+BUMED/Navy/Govt updates:
+
+New USFJ FRAGO attached.  Instructs all AD personnel to maintain a running 14-day contact log, for use in contact tracing should they become a COVID-19 case.  This is accomplished by recording daily date, time, location, and duration of contact with individuals whom would meet contact tracing conditions (being within 6 feet for approximately 10 minutes or longer).  It also includes a requirement for documenting when sharing a health care waiting area with others.  It also clarifies and adds exemptions to the stop movement policy.     
+
+PACFLT MOD 20 attached.  Directs that personnel at high risk of severe illness from COVID-19 (based on CDC list of high risk conditions) should not embark for scheduled deployments (though may embark for short underways).  Includes a push for smoking/vaping cessation. 
+
+PACFLT has also mandated use of the COVID-19 underway operations SOP checklist, also attached. 
+
+
+
+CDC/clinical updates:
+
+From PACFLT MOD 22, released today, based on actual data from AD Navy COVID-19 positives:  MUCH WORK HAS BEEN DONE TO DOCUMENT THE WAYS COVID SYMPTOMS HAVE PRESENTED IN CPF SAILORS. WHILE THE SYMPTOMS LARGELY MIRROR CDC FINDINGS THERE ARE DIFFERENCES, POSSIBLY OWING TO OUR YOUNGER DEMOGRAPHICS, A HEALTHY COHORT, AND RAPID MEDICAL CARE. WHILE FEVER WAS THE MOST COMMON FIRST SYMPTOM PUBLISHED IN CDC FINDINGS, THAT HAS NOT BEEN SO WITH NAVY CASES. OUR INITIAL SYMPTOMS HAVE BEEN LESS CONCRETE. IN ORDER OF REPORTING, THE SYMPTOMS MOST OFTEN REPORTED BY SAILORS ARE: COUGH, HEADACHE, MUSCLE ACHES, SORE THROAT, LOSS OF TASTE / SMELL, DIFFICULTY BREATHING, AND FINALLY, FEVER. AS OUR INITIAL SYMPTOMS MAY ONLY BE NOTICEABLE TO THE INDIVIDUAL SAILOR, IMMEDIATE REPORTING OF SYMPTOMS TO THE CHAIN OF COMMAND AND MEDICAL DEPARTMENT IS ESSENTIAL.  
+Bottom line: Don't go to work when sick.  Report your symptoms to medical.  Don't hang your hat on fever as a symptom for COVID-19.  
+
+- NEW: CDC update and link-out to NIH investigational therapeutics: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html
+
+- NEW: Guidance for Shared or Congregate Housing: https://www.cdc.gov/coronavirus/2019-ncov/community/shared-congregate-house/guidance-shared-congregate-housing.html.  Applies to some facilities/housing on our installations. 
+
+- NEW: Infection Prevention and Control for Alternate Care Sites: https://www.cdc.gov/coronavirus/2019-ncov/hcp/alternative-care-sites.html.  Applies to isolation barracks and mass isolation facilities that might be utilized in an overflow situation.  
+
+
+Spotlight: Case fatality rate, serology tests, and immunity
+
+With antibody studies coming in from NY and CA, and acknowledgement by the WHO that antibodies may not confer protection, a broader discussion about transmission among asymptomatic people, the true scope of the denominator, and ultimate the case fatality rate (CFR) is figuring prominently in news cycles. The first round of large-scale antibody testing, while not perfect, suggests that the true scope of infection is 28-55 times (or more) larger than the reported cases. This swelling in the denominator suggests that the true CFR can be revised downwards, below 1% and potentially lower than 0.5%, perhaps even beginning to approximate that of seasonal influenza. 
+
+It is difficult to get a real sense of the sensitivity and specificity of current rtPCR diagnostic testing, but most studies suggest that sensitivity is somewhere between 85% and 95%, translating to a false negative rate of 5%-15% (actual infections not detected). Specificity is thought to be higher, likely over 95%, a higher proportion of true negatives are deemed negative by the test.  A higher sensitivity means fewer false negatives, at the expense of some extra false positives. A higher specificity means fewer false positives. 
+
+Antibody protection is measured by IgM (first wave of antibodies, indicating acute - or active - infection) and IgG (evidence of past infection).  With respect to serology tests, a false positive would mean that a person is found to have antibody protection, but is not actually protected.  One manufacturer claims 98% specificity (or a 2% false positive rate) for antibody detection, and 85% sensitivity (15% false negative rate, see Nature article link below). These sensitivity and specificity rates are about the same as diagnostic testing, but the risk tradeoffs are different. In other words, with antibody testing we may miss identifying 2% of people who remain at risk (i.e., person was found to have antibodies but is not actually protected due to a false positive error), but the larger error is on the side of those who have antibodies (the 15% of false negatives).  With diagnostic testing (rtPCR), we are currently missing up to 15% of people who are actually infected but not caught by the rtPCR test (false negatives). (The actual performance of the rtPCR could be even worse in field conditions due to inadequate swabbing, handling, transport, lab technique, etc.). 
+
+In addition to test accuracy among the different serology tests coming on the market, we have no information on actual protection conferred by specific antibody titers. For vaccine-preventable diseases, we have established titers which have been found to be sufficient to declare immunity against infection. There is not enough data yet to determine the threshold value for COVID-19 antibody protection, nor do we know the duration of immunity. This is the reminder from the WHO to temper enthusiasm about serology testing.  Duration of immunity could be 2 months, 2 years, or perhaps longer. So while antibody detection is an exciting frontier with respect to defining risk (the CFR by subgroup), the true scope of infection (the asymptomatic fraction of the population), and the ability to move society back to normal life, it must be interpreted with continued caution until more information is available. 
+
+Articles related to this: 
+https://reason.com/2020/04/20/l-a-county-antibody-tests-suggest-the-fatality-rate-for-covid-19-is-much-lower-than-people-feared/
+
+https://www.nature.com/articles/d41586-020-01163-5
+
+https://emailshare.cmail19.com/t/n/d-l-a7ef775a87a411ea8e42db355d1a45e7-l-d-r-l/
+
+Key takeaways:
+-       Antibody testing is finding 3%-20% of the population has evidence of infection, depending on geographic location. Note that these community surveys are not randomized, and the estimates are very preliminary. 
+-       Redefining the denominator allows infectious disease experts to better refine case-fatality rates by subgroup of the population.
+-       Serology testing should not be construed as a badge of immunity (for now), but rather suggestive of the true scope of transmission in certain parts of the population.
+-       The next phase of research will evaluate the accuracy of the tests, threshold value for presuming protection against COVID-19, and durability of immunity.
+
+Please let me know if you have any questions.
